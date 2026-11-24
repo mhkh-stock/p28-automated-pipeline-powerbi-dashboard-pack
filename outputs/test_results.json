@@ -1,0 +1,90 @@
+{
+  "total": 14,
+  "passed": 14,
+  "tests": [
+    {
+      "test": "t01_bronze_silver_quarantine_reconciles.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t02_silver_no_duplicate_order_id.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t03_silver_no_null_keys.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t04_silver_quantity_positive.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t05_silver_unit_price_positive.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t06_silver_discount_range.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t07_silver_line_total_correct.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t08_silver_dates_valid_and_in_range.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t09_fact_grain_one_row_per_order.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t10_fact_totals_reconcile_silver.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t11_fact_no_null_keys.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t12_dim_date_coverage_30_days.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t13_load_log_no_duplicate_hash.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    },
+    {
+      "test": "t14_marts_reconcile_to_fact.sql",
+      "status": "PASS",
+      "violations": 0,
+      "expected": 0
+    }
+  ]
+}

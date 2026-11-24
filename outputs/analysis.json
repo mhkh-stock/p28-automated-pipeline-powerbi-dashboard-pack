@@ -1,0 +1,745 @@
+{
+  "orders": 2094,
+  "days_loaded": 30,
+  "files_loaded": 30,
+  "raw_rows": 2111,
+  "quarantined": 17,
+  "revenue_pkr": 38573539.5,
+  "units": 4848,
+  "aov_pkr": 18420.98,
+  "orders_per_day": 69.8,
+  "revenue_per_day": 1285784.65,
+  "customers": 240,
+  "products": 24,
+  "categories": 4,
+  "channels": 3,
+  "date_min": "2026-10-25",
+  "date_max": "2026-11-23",
+  "best_day": {
+    "order_date": "2026-11-20",
+    "orders": 76,
+    "units": 190,
+    "revenue": 1962402.65,
+    "aov": 25821.09
+  },
+  "worst_day": {
+    "order_date": "2026-10-30",
+    "orders": 78,
+    "units": 164,
+    "revenue": 838444.9,
+    "aov": 10749.29
+  },
+  "top_category": {
+    "category": "Electronics",
+    "orders": 500,
+    "units": 978,
+    "revenue": 25086924.3,
+    "share": 65.04
+  },
+  "top_channel": {
+    "channel": "In-store",
+    "orders": 1036,
+    "revenue": 19445092.5,
+    "share": 50.41
+  },
+  "top_product": {
+    "product_id": "E01",
+    "product_name": "Smartphone X1",
+    "category": "Electronics",
+    "orders": 93,
+    "units": 189,
+    "revenue": 15104322.3
+  },
+  "sales_by_day": [
+    {
+      "order_date": "2026-10-25",
+      "orders": 73,
+      "units": 166,
+      "revenue": 1024445.05,
+      "aov": 14033.49
+    },
+    {
+      "order_date": "2026-10-26",
+      "orders": 64,
+      "units": 144,
+      "revenue": 1166433.75,
+      "aov": 18225.53
+    },
+    {
+      "order_date": "2026-10-27",
+      "orders": 70,
+      "units": 189,
+      "revenue": 1819768.6,
+      "aov": 25996.69
+    },
+    {
+      "order_date": "2026-10-28",
+      "orders": 67,
+      "units": 151,
+      "revenue": 1228235.95,
+      "aov": 18331.88
+    },
+    {
+      "order_date": "2026-10-29",
+      "orders": 61,
+      "units": 146,
+      "revenue": 983045.65,
+      "aov": 16115.5
+    },
+    {
+      "order_date": "2026-10-30",
+      "orders": 78,
+      "units": 164,
+      "revenue": 838444.9,
+      "aov": 10749.29
+    },
+    {
+      "order_date": "2026-10-31",
+      "orders": 84,
+      "units": 195,
+      "revenue": 1538254.05,
+      "aov": 18312.55
+    },
+    {
+      "order_date": "2026-11-01",
+      "orders": 80,
+      "units": 209,
+      "revenue": 1174682.55,
+      "aov": 14683.53
+    },
+    {
+      "order_date": "2026-11-02",
+      "orders": 63,
+      "units": 134,
+      "revenue": 847550.75,
+      "aov": 13453.19
+    },
+    {
+      "order_date": "2026-11-03",
+      "orders": 66,
+      "units": 153,
+      "revenue": 890029.15,
+      "aov": 13485.29
+    },
+    {
+      "order_date": "2026-11-04",
+      "orders": 62,
+      "units": 131,
+      "revenue": 1022981.5,
+      "aov": 16499.7
+    },
+    {
+      "order_date": "2026-11-05",
+      "orders": 62,
+      "units": 138,
+      "revenue": 1269739.5,
+      "aov": 20479.67
+    },
+    {
+      "order_date": "2026-11-06",
+      "orders": 74,
+      "units": 162,
+      "revenue": 1102812.3,
+      "aov": 14902.87
+    },
+    {
+      "order_date": "2026-11-07",
+      "orders": 84,
+      "units": 225,
+      "revenue": 1833607.85,
+      "aov": 21828.66
+    },
+    {
+      "order_date": "2026-11-08",
+      "orders": 74,
+      "units": 178,
+      "revenue": 1750625.6,
+      "aov": 23657.1
+    },
+    {
+      "order_date": "2026-11-09",
+      "orders": 68,
+      "units": 144,
+      "revenue": 1617127.3,
+      "aov": 23781.28
+    },
+    {
+      "order_date": "2026-11-10",
+      "orders": 61,
+      "units": 130,
+      "revenue": 995212.15,
+      "aov": 16314.95
+    },
+    {
+      "order_date": "2026-11-11",
+      "orders": 64,
+      "units": 155,
+      "revenue": 1683012.8,
+      "aov": 26297.08
+    },
+    {
+      "order_date": "2026-11-12",
+      "orders": 65,
+      "units": 165,
+      "revenue": 1718240.15,
+      "aov": 26434.46
+    },
+    {
+      "order_date": "2026-11-13",
+      "orders": 76,
+      "units": 171,
+      "revenue": 1259380.2,
+      "aov": 16570.79
+    },
+    {
+      "order_date": "2026-11-14",
+      "orders": 73,
+      "units": 172,
+      "revenue": 1017730.8,
+      "aov": 13941.52
+    },
+    {
+      "order_date": "2026-11-15",
+      "orders": 72,
+      "units": 168,
+      "revenue": 1369196.55,
+      "aov": 19016.62
+    },
+    {
+      "order_date": "2026-11-16",
+      "orders": 72,
+      "units": 169,
+      "revenue": 1405585.85,
+      "aov": 19522.03
+    },
+    {
+      "order_date": "2026-11-17",
+      "orders": 62,
+      "units": 145,
+      "revenue": 1189539.65,
+      "aov": 19186.12
+    },
+    {
+      "order_date": "2026-11-18",
+      "orders": 65,
+      "units": 147,
+      "revenue": 1186437.95,
+      "aov": 18252.89
+    },
+    {
+      "order_date": "2026-11-19",
+      "orders": 65,
+      "units": 150,
+      "revenue": 1454972.95,
+      "aov": 22384.2
+    },
+    {
+      "order_date": "2026-11-20",
+      "orders": 76,
+      "units": 190,
+      "revenue": 1962402.65,
+      "aov": 25821.09
+    },
+    {
+      "order_date": "2026-11-21",
+      "orders": 77,
+      "units": 164,
+      "revenue": 1303925.75,
+      "aov": 16934.1
+    },
+    {
+      "order_date": "2026-11-22",
+      "orders": 76,
+      "units": 158,
+      "revenue": 1077245.25,
+      "aov": 14174.28
+    },
+    {
+      "order_date": "2026-11-23",
+      "orders": 60,
+      "units": 135,
+      "revenue": 842872.35,
+      "aov": 14047.87
+    }
+  ],
+  "sales_by_channel": [
+    {
+      "channel": "In-store",
+      "orders": 1036,
+      "revenue": 19445092.5,
+      "share": 50.41
+    },
+    {
+      "channel": "Online",
+      "orders": 734,
+      "revenue": 12876026.9,
+      "share": 33.38
+    },
+    {
+      "channel": "WhatsApp",
+      "orders": 324,
+      "revenue": 6252420.1,
+      "share": 16.21
+    }
+  ],
+  "sales_by_category": [
+    {
+      "category": "Electronics",
+      "orders": 500,
+      "units": 978,
+      "revenue": 25086924.3,
+      "share": 65.04
+    },
+    {
+      "category": "Home & Kitchen",
+      "orders": 381,
+      "units": 782,
+      "revenue": 5815218.4,
+      "share": 15.08
+    },
+    {
+      "category": "Groceries",
+      "orders": 736,
+      "units": 2150,
+      "revenue": 4411786.75,
+      "share": 11.44
+    },
+    {
+      "category": "Clothing",
+      "orders": 477,
+      "units": 938,
+      "revenue": 3259610.05,
+      "share": 8.45
+    }
+  ],
+  "top_products": [
+    {
+      "product_id": "E01",
+      "product_name": "Smartphone X1",
+      "category": "Electronics",
+      "orders": 93,
+      "units": 189,
+      "revenue": 15104322.3
+    },
+    {
+      "product_id": "E03",
+      "product_name": "LED TV 32 inch",
+      "category": "Electronics",
+      "orders": 89,
+      "units": 168,
+      "revenue": 6854040.6
+    },
+    {
+      "product_id": "H05",
+      "product_name": "Water Dispenser",
+      "category": "Home & Kitchen",
+      "orders": 71,
+      "units": 148,
+      "revenue": 2075111.65
+    },
+    {
+      "product_id": "H01",
+      "product_name": "Dinner Set 24pc",
+      "category": "Home & Kitchen",
+      "orders": 52,
+      "units": 103,
+      "revenue": 1268052.45
+    },
+    {
+      "product_id": "H02",
+      "product_name": "Non-stick Cookware Set",
+      "category": "Home & Kitchen",
+      "orders": 67,
+      "units": 148,
+      "revenue": 1248161.3
+    },
+    {
+      "product_id": "G02",
+      "product_name": "Cooking Oil 5L",
+      "category": "Groceries",
+      "orders": 132,
+      "units": 398,
+      "revenue": 1233331.15
+    },
+    {
+      "product_id": "E02",
+      "product_name": "Wireless Earbuds",
+      "category": "Electronics",
+      "orders": 100,
+      "units": 201,
+      "revenue": 1145209.1
+    },
+    {
+      "product_id": "E06",
+      "product_name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "orders": 72,
+      "units": 138,
+      "revenue": 988368.2
+    },
+    {
+      "product_id": "G05",
+      "product_name": "Dates Ajwa 500g",
+      "category": "Groceries",
+      "orders": 141,
+      "units": 410,
+      "revenue": 967487.85
+    },
+    {
+      "product_id": "C06",
+      "product_name": "Winter Jacket",
+      "category": "Clothing",
+      "orders": 62,
+      "units": 120,
+      "revenue": 798935.85
+    }
+  ],
+  "top10_revenue": 31683020.45,
+  "top10_share": 82.14,
+  "sales_by_month": [
+    {
+      "month": "2026-10",
+      "orders": 497,
+      "revenue": 8598627.95
+    },
+    {
+      "month": "2026-11",
+      "orders": 1597,
+      "revenue": 29974911.55
+    }
+  ],
+  "quarantine_by_reason": [
+    {
+      "reason": "invalid_quantity",
+      "rows": 6
+    },
+    {
+      "reason": "duplicate_order_id",
+      "rows": 6
+    },
+    {
+      "reason": "missing_or_invalid_price",
+      "rows": 3
+    },
+    {
+      "reason": "invalid_date",
+      "rows": 2
+    }
+  ],
+  "load_log": [
+    {
+      "file_name": "sales_2026-10-25.csv",
+      "file_hash": "b27f61e40985fd8afa15ee947a8a9f842e53697c1f475cefabc6aa2af6437cf5",
+      "order_date": "2026-10-25",
+      "rows_in_file": 73,
+      "rows_loaded": 73,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:01 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-10-26.csv",
+      "file_hash": "28e50b481f4e833721f53196a5d9d763e0e495344cbd861693cad530bff58d37",
+      "order_date": "2026-10-26",
+      "rows_in_file": 64,
+      "rows_loaded": 64,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:02 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-10-27.csv",
+      "file_hash": "e13b2fbc00fbe02cc7a1dcfa770b9048e9ae5a2cd0767b9b4d347d5b187cdfd7",
+      "order_date": "2026-10-27",
+      "rows_in_file": 71,
+      "rows_loaded": 71,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:02 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-10-28.csv",
+      "file_hash": "00bc4ec86256092aba9d55bf8075a3f37a191de031f28d4d5d328a0c75d97e03",
+      "order_date": "2026-10-28",
+      "rows_in_file": 67,
+      "rows_loaded": 67,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:02 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-10-29.csv",
+      "file_hash": "39f0c10b8dd2690173a2955a6825fddb9b5c82263fbdc6739442490651c5c81c",
+      "order_date": "2026-10-29",
+      "rows_in_file": 62,
+      "rows_loaded": 61,
+      "rows_quarantined": 1,
+      "loaded_at": "2026-11-24 05:26:03 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-10-30.csv",
+      "file_hash": "e15578d196f033b6302a5e2a81e1cf9f35c49d02ec1a8c7d4ae8b78b1e8a5812",
+      "order_date": "2026-10-30",
+      "rows_in_file": 78,
+      "rows_loaded": 78,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:03 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-10-31.csv",
+      "file_hash": "cce1a1db31529b87117381da901d26f49d31b2a0b1c8504ef8c3ed2fd94c8301",
+      "order_date": "2026-10-31",
+      "rows_in_file": 85,
+      "rows_loaded": 85,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:03 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-01.csv",
+      "file_hash": "3f88087e100f2f2e9eb6e67bdbfd1a4f3baee2aef5baa356a0703d8633f3d400",
+      "order_date": "2026-11-01",
+      "rows_in_file": 80,
+      "rows_loaded": 80,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:03 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-02.csv",
+      "file_hash": "1037123363d85d20593cf4a45667c763b21c85442622d41f3ca6be08a8400703",
+      "order_date": "2026-11-02",
+      "rows_in_file": 64,
+      "rows_loaded": 62,
+      "rows_quarantined": 2,
+      "loaded_at": "2026-11-24 05:26:04 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-03.csv",
+      "file_hash": "f34ee93d4f527f65b824f5f1115ea99c297a64c56691a9e413cedfe1d4f1a0ef",
+      "order_date": "2026-11-03",
+      "rows_in_file": 66,
+      "rows_loaded": 66,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:04 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-04.csv",
+      "file_hash": "56293d3983e10e1a34ad8eb002da50e3c9ab1c3bcf0f7ddae594a96904913824",
+      "order_date": "2026-11-04",
+      "rows_in_file": 63,
+      "rows_loaded": 62,
+      "rows_quarantined": 1,
+      "loaded_at": "2026-11-24 05:26:05 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-05.csv",
+      "file_hash": "33bb4acea5919d2514c0e07c993ff60c8758ec2497065805989b763095968b31",
+      "order_date": "2026-11-05",
+      "rows_in_file": 62,
+      "rows_loaded": 62,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:05 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-06.csv",
+      "file_hash": "d5bbce7ceeabc1bfe3f18263842daef74c57f9a381b18ea415400b9e4762a232",
+      "order_date": "2026-11-06",
+      "rows_in_file": 75,
+      "rows_loaded": 74,
+      "rows_quarantined": 1,
+      "loaded_at": "2026-11-24 05:26:05 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-07.csv",
+      "file_hash": "6724655919d9973b406f32791b366b3d803d775304e57f021c23256458056066",
+      "order_date": "2026-11-07",
+      "rows_in_file": 84,
+      "rows_loaded": 84,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:06 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-08.csv",
+      "file_hash": "f55dcf49a7f3dedf1e21e95a161d311949450a7b3fdafae259f48e6bc568bd74",
+      "order_date": "2026-11-08",
+      "rows_in_file": 75,
+      "rows_loaded": 74,
+      "rows_quarantined": 1,
+      "loaded_at": "2026-11-24 05:26:06 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-09.csv",
+      "file_hash": "4d3d9535ea9bb4859b9845c11d268b0e6668c3c93631f47e31ac4fbcfe521c58",
+      "order_date": "2026-11-09",
+      "rows_in_file": 68,
+      "rows_loaded": 68,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:07 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-10.csv",
+      "file_hash": "3c589d5d188abc4f8cb12800a00e8c76bdaadda9ed4dd1e0ae3edbd567c69f00",
+      "order_date": "2026-11-10",
+      "rows_in_file": 62,
+      "rows_loaded": 60,
+      "rows_quarantined": 2,
+      "loaded_at": "2026-11-24 05:26:07 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-11.csv",
+      "file_hash": "4f08bf8b3ad7bc51bec91cb2c4248db877f82e72287bb9a4cc4d29dc71921dbd",
+      "order_date": "2026-11-11",
+      "rows_in_file": 64,
+      "rows_loaded": 64,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:08 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-12.csv",
+      "file_hash": "a03c14e4dbebfaf1b29717f3cefca9b3f50b3e7770699c5150004a88a1173dbb",
+      "order_date": "2026-11-12",
+      "rows_in_file": 66,
+      "rows_loaded": 65,
+      "rows_quarantined": 1,
+      "loaded_at": "2026-11-24 05:26:08 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-13.csv",
+      "file_hash": "bccb5612d12877efe676372242905006527ab02e74ff3e6a9332db004c5b59b9",
+      "order_date": "2026-11-13",
+      "rows_in_file": 76,
+      "rows_loaded": 76,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:09 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-14.csv",
+      "file_hash": "f526860c100776fcef300aaa208557532b25a7764b2ea15c02874a3ae2de3bfe",
+      "order_date": "2026-11-14",
+      "rows_in_file": 74,
+      "rows_loaded": 73,
+      "rows_quarantined": 1,
+      "loaded_at": "2026-11-24 05:26:09 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-15.csv",
+      "file_hash": "7f295e8ee1f9b45b8df9c315d6e8b44fe71ed65dd5b6ecacd36e3aec3471be71",
+      "order_date": "2026-11-15",
+      "rows_in_file": 72,
+      "rows_loaded": 72,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:10 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-16.csv",
+      "file_hash": "0c9a2a43e1f8a425487d6cc838faefbd5316b9c806da1369ca7d3ca5998fbac8",
+      "order_date": "2026-11-16",
+      "rows_in_file": 73,
+      "rows_loaded": 72,
+      "rows_quarantined": 1,
+      "loaded_at": "2026-11-24 05:26:11 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-17.csv",
+      "file_hash": "58960bdc5d4631b54ef96d4698f9e431706ea1c58eae73bf7392dc066717ca7e",
+      "order_date": "2026-11-17",
+      "rows_in_file": 62,
+      "rows_loaded": 62,
+      "rows_quarantined": 0,
+      "loaded_at": "2026-11-24 05:26:12 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-18.csv",
+      "file_hash": "9848e304db90a757deea0fc75790423826704a6941561a7d4b1dafe050718ca1",
+      "order_date": "2026-11-18",
+      "rows_in_file": 66,
+      "rows_loaded": 65,
+      "rows_quarantined": 1,
+      "loaded_at": "2026-11-24 05:26:13 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-19.csv",
+      "file_hash": "438ee8f0683c2c54b1a5d65765b2c38b9669031247bb8dba0e5cbe9e9f54db9f",
+      "order_date": "2026-11-19",
+      "rows_in_file": 66,
+      "rows_loaded": 65,
+      "rows_quarantined": 1,
+      "loaded_at": "2026-11-24 05:26:14 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-20.csv",
+      "file_hash": "d7aec94e9ed8f2585c76178ff78427df9349503b3a22781923a83cdb6ace9ad6",
+      "order_date": "2026-11-20",
+      "rows_in_file": 77,
+      "rows_loaded": 76,
+      "rows_quarantined": 1,
+      "loaded_at": "2026-11-24 05:26:15 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-21.csv",
+      "file_hash": "78f42eb8e50855feb1daff421ae4c9fb93c476944e2f9948cbbd584c1976bfbd",
+      "order_date": "2026-11-21",
+      "rows_in_file": 78,
+      "rows_loaded": 77,
+      "rows_quarantined": 1,
+      "loaded_at": "2026-11-24 05:26:16 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-22.csv",
+      "file_hash": "a86e1a0d4f2553895ab617ebfe6abb750e62ebe9e223a5978f5179b80041f177",
+      "order_date": "2026-11-22",
+      "rows_in_file": 77,
+      "rows_loaded": 76,
+      "rows_quarantined": 1,
+      "loaded_at": "2026-11-24 05:26:18 UTC",
+      "status": "loaded"
+    },
+    {
+      "file_name": "sales_2026-11-23.csv",
+      "file_hash": "450736bedd4a957399d5c059b61d4ff381c7c60878280fc69ddcc41474f28254",
+      "order_date": "2026-11-23",
+      "rows_in_file": 61,
+      "rows_loaded": 60,
+      "rows_quarantined": 1,
+      "loaded_at": "2026-11-24 05:26:19 UTC",
+      "status": "loaded"
+    }
+  ],
+  "weekend_vs_weekday": [
+    {
+      "day_type": "Weekend",
+      "days": 9,
+      "orders": 693,
+      "revenue": 12089713.45
+    },
+    {
+      "day_type": "Weekday",
+      "days": 21,
+      "orders": 1401,
+      "revenue": 26483826.05
+    }
+  ]
+}
